@@ -1,4 +1,4 @@
-# Distributed Cache — SOLID + Design Patterns
+# Distributed Cache Design Patterns
 
 A Java implementation of a distributed in-memory cache demonstrating SOLID principles and classic design patterns including Builder, Factory, Decorator, Strategy, Observer, and Consistent Hashing.
 
